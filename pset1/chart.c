@@ -54,10 +54,10 @@ main(void){
     int percent_f_procurando_f = (100 * f_procurando_f)/sum_values;
     int percent_m_procurando_m = (100 * m_procurando_m)/sum_values;
 
-    int caracteres_m_procurando_m = (100*percent_m_procurando_m)/80;
-    int caracteres_m_procurando_f = (100*percent_m_procurando_f)/80;
-    int caracteres_f_procurando_m = (100*percent_f_procurando_m)/80;
-    int caracteres_f_procurando_f = (100*percent_f_procurando_f)/80;
+    int caracteres_m_procurando_m = (80*percent_m_procurando_m)/100;
+    int caracteres_m_procurando_f = (80*percent_m_procurando_f)/100;
+    int caracteres_f_procurando_m = (80*percent_f_procurando_m)/100;
+    int caracteres_f_procurando_f = (80*percent_f_procurando_f)/100;
 
     printf("                             \n");
     printf("Quem procura quem? \n");
