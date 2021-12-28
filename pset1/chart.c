@@ -9,7 +9,7 @@ int
 main(void){
 
     char grafico1[81] = "";
-    char grafico2[81];
+    char grafico2[81] = "";
     char grafico3[81] = "";
     char grafico4[81] = "";
     int teste = 1;
