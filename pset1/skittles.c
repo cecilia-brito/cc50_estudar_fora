@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <cs50.h>
 #include <time.h>
+#include <cs50.h>
 
 int
 main(void){
