@@ -29,7 +29,7 @@ Tabela de conteúdos
 
 ## 💡Tecnologias Utilizadas
 
-<a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a></a>
+<a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="Logo da linguagem C, hexágono azul com um C no meio"/></a></a>
 
 ## 🌼Author
 
